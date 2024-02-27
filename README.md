@@ -1,7 +1,7 @@
 # Text-Summarization-A-Clustering-approach-on-BERT-embedding
-This is a low cost approach for text summarization through text embedding clustering
-the project was done during early 2022 , hence using BERT embedding for easy fine tuning
-in low memory setup. Although summarization is the end goak - same clustering approach 
+This is a low cost approach for text summarization through text embedding clustering.
+The project was done during early 2022 , hence using BERT embedding for easy fine tuning
+in low memory setup. Although summarization is the end goal - same clustering approach 
 can be easily adopted for unsupervised disacourse tracking or social media analysis
 A presentation uploaded for more details
 
